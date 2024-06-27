@@ -1,0 +1,15 @@
+C:\Users\pce116\source\repos\aayushiTatva\.NET-Practice\ProductManagementSystem\com.productManagementSystem.DBEntity\bin\Debug\net8.0\com.productManagementSystem.DBEntity.deps.json
+C:\Users\pce116\source\repos\aayushiTatva\.NET-Practice\ProductManagementSystem\com.productManagementSystem.DBEntity\bin\Debug\net8.0\com.productManagementSystem.DBEntity.runtimeconfig.json
+C:\Users\pce116\source\repos\aayushiTatva\.NET-Practice\ProductManagementSystem\com.productManagementSystem.DBEntity\bin\Debug\net8.0\com.productManagementSystem.DBEntity.dll
+C:\Users\pce116\source\repos\aayushiTatva\.NET-Practice\ProductManagementSystem\com.productManagementSystem.DBEntity\bin\Debug\net8.0\com.productManagementSystem.DBEntity.pdb
+C:\Users\pce116\source\repos\aayushiTatva\.NET-Practice\ProductManagementSystem\com.productManagementSystem.DBEntity\obj\Debug\net8.0\com.productManagementSystem.DBEntity.csproj.AssemblyReference.cache
+C:\Users\pce116\source\repos\aayushiTatva\.NET-Practice\ProductManagementSystem\com.productManagementSystem.DBEntity\obj\Debug\net8.0\com.productManagementSystem.DBEntity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pce116\source\repos\aayushiTatva\.NET-Practice\ProductManagementSystem\com.productManagementSystem.DBEntity\obj\Debug\net8.0\com.productManagementSystem.DBEntity.AssemblyInfoInputs.cache
+C:\Users\pce116\source\repos\aayushiTatva\.NET-Practice\ProductManagementSystem\com.productManagementSystem.DBEntity\obj\Debug\net8.0\com.productManagementSystem.DBEntity.AssemblyInfo.cs
+C:\Users\pce116\source\repos\aayushiTatva\.NET-Practice\ProductManagementSystem\com.productManagementSystem.DBEntity\obj\Debug\net8.0\com.productManagementSystem.DBEntity.csproj.CoreCompileInputs.cache
+C:\Users\pce116\source\repos\aayushiTatva\.NET-Practice\ProductManagementSystem\com.productManagementSystem.DBEntity\obj\Debug\net8.0\com.productManagementSystem.DBEntity.dll
+C:\Users\pce116\source\repos\aayushiTatva\.NET-Practice\ProductManagementSystem\com.productManagementSystem.DBEntity\obj\Debug\net8.0\refint\com.productManagementSystem.DBEntity.dll
+C:\Users\pce116\source\repos\aayushiTatva\.NET-Practice\ProductManagementSystem\com.productManagementSystem.DBEntity\obj\Debug\net8.0\com.productManagementSystem.DBEntity.pdb
+C:\Users\pce116\source\repos\aayushiTatva\.NET-Practice\ProductManagementSystem\com.productManagementSystem.DBEntity\obj\Debug\net8.0\com.productManagementSystem.DBEntity.genruntimeconfig.cache
+C:\Users\pce116\source\repos\aayushiTatva\.NET-Practice\ProductManagementSystem\com.productManagementSystem.DBEntity\obj\Debug\net8.0\ref\com.productManagementSystem.DBEntity.dll
+C:\Users\pce116\Source\Repos\aayushiTatva\.NET-Practice\ProductManagementSystem\com.productManagementSystem.DBEntity\obj\Debug\net8.0\com.productManagementSystem.DBEntity.sourcelink.json
